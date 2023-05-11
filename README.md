@@ -1,6 +1,16 @@
 # flutter_loginui_animation
 
 A new Flutter project.
+# Flutter Beautiful Animated Login UI
+
+# Screenshot
+
+<img src="https://github.com/Mirzaazmath/flutter_beautiful_login_ui/blob/main/assets/result.png" height="400">
+
+# OutPut 
+
+
+<img src ="https://github.com/Mirzaazmath/flutter_beautiful_login_ui/blob/main/assets/result.gif" height="400">
 
 ## Getting Started
 
